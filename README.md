@@ -1,2 +1,2 @@
 # Nix.zone
-Nix.zone domain
+Legendary
